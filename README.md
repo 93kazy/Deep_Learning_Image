@@ -1,6 +1,6 @@
 # Deep Learning for Images : Course Labs
  
-> Lab work for Computer Vision course, Master IASD, Université Paris Dauphine – PSL.
+> Lab work for Computer Vision course, Master IASD, Université Paris Dauphine-PSL.
  
 This repository collects the hands-on labs and project completed during the course. All work is in Jupyter notebooks.
  
