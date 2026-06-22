@@ -8,5 +8,5 @@ This repository collects the hands-on labs and project completed during the cour
  
 | Folder | Description |
 |--------|-------------|
-| `TP1` – `TP8` | Weekly hands-on labs
+| `TP1` - `TP8` | Weekly hands-on labs
 | `Pneumonia_Project` | Deep learning project on pneumonia detection from chest X-ray images
